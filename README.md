@@ -1,5 +1,5 @@
-# Ursus Park sample app for Trailhead project [Build Flexible Apps with Lightning Web Components](https://trailhead.salesforce.com/content/learn/projects/lwc-build-flexible-apps)
+# Bear-Tracking App with Lightning Web Components
 
-We are not accepting contributions on this app.
+Application for a fictional national park to help park rangers track bears, developed using Salesforce Lightning Web Components (LWC). The application demonstrates fundamental LWC concepts by allowing rangers to view and manage bear data. Key features include displaying information from both individual records and lists, encapsulating functionality within child components, and facilitating cross-component communication through events.
 
-Found an issue? Report it using the [Trailhead feedback form](https://trailhead.salesforce.com/help?support=home).
+The app showcases practical applications of LWC such as data binding, conditional rendering, and interaction with Apex through imperative and wired methods.
